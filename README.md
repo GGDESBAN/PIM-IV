@@ -2,9 +2,9 @@
 PIM IV do curso Análise e Desenvolvimento de Sistemas, UNIP 2023
 
 # INTEGRANTES
-2308454 - Victor Hugo Gagliardi Malaquias
-2317412 - Lidyane Vitoria Gagliardi Malaquias
-2318799 - Cainan Henrique Ferreira
+- 2308454 - Victor Hugo Gagliardi Malaquias
+- 2317412 - Lidyane Vitoria Gagliardi Malaquias
+- 2318799 - Cainan Henrique Ferreira
 
 # PROBLEMA APRESENTADO
 O objetivo do projeto será desenvolver um sistema em C (utilizando o codeblocks – disponível de forma gratuita no seguinte link: http://www.codeblocks.org/) que será utilizado pela START-UP de soluções ambientais
