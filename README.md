@@ -14,10 +14,10 @@ Ao iniciar o sistema a empresa irá se deparar com uma tela de Login.
 
 Feito o Login, o sistema ira redirecionar o usuário para uma tela com 4 opções, sendo:
 
-1 - Registrar uma nova empresa
-2 - Atualizar os dados Ambientais
-3 - Gerar Relatorios
-4 - Sair
+- 1 - Registrar uma nova empresa
+- 2 - Atualizar os dados Ambientais
+- 3 - Gerar Relatorios
+- 4 - Sair
 
 Para registrar uma nova empresa o usuario irá precisar dos seguintes dados:
 
@@ -50,6 +50,6 @@ caso alguém deseja utiliza-lo.)
 - main -> o código fonte
 - SistemaEmpresa -> o sistema console da empresa.
 
-3 - Para abrir o sistema executavel atraver do codigo fonte basta o usuario ir até "Build > Build and Run" e o programa será executado, ou pode estar acessando diretamente o 
+3 - Para abrir o sistema executavel através do código fonte basta o usuário ir até "Build > Build and Run" e o programa será executado, ou pode estar acessando diretamente o 
 SistemaEmpresa.
 
