@@ -21,13 +21,13 @@ Feito o Login, o sistema ira redirecionar o usuário para uma tela com 4 opçõe
 
 Para registrar uma nova empresa o usuario irá precisar dos seguintes dados:
 
-Nome da empresa,
-Razão social da empresa,
-Nome do responsavel,
-CNPJ da empresa,
-Email da empresa,
-Telefone da empresa,
-Endereço da empresa.
+- Nome da empresa,
+- Razão social da empresa,
+- Nome do responsavel,
+- CNPJ da empresa,
+- Email da empresa,
+- Telefone da empresa,
+- Endereço da empresa.
 
 Para Atualizar os dados ambientais o usuario irá precisar passar o nome da Empresa que deseja alterar o dado e incluir também a quantidade de residuo descartado pela mesma.
 
@@ -46,9 +46,9 @@ caso alguém deseja utiliza-lo.)
 
 2 - O código fornecido a cima contem 3 arquivos, sendo eles:
 
-EmpresaRegistos -> o arquivo.txt onde contem todos os dados salvos
-main -> o código fonte
-SistemaEmpresa -> o sistema console da empresa.
+- EmpresaRegistos -> o arquivo.txt onde contem todos os dados salvos
+- main -> o código fonte
+- SistemaEmpresa -> o sistema console da empresa.
 
 3 - Para abrir o sistema executavel atraver do codigo fonte basta o usuario ir até "Build > Build and Run" e o programa será executado, ou pode estar acessando diretamente o 
 SistemaEmpresa.
