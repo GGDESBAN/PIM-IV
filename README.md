@@ -2,9 +2,6 @@
 PIM IV do curso Análise e Desenvolvimento de Sistemas, UNIP 2023
 
 # INTEGRANTES
-- 2308454 - Victor Hugo Gagliardi Malaquias
-- 2317412 - Lidyane Vitoria Gagliardi Malaquias
-- 2318799 - Cainan Henrique Ferreira
 - 1713192 - André Ferreira Silva
 
 # PROBLEMA APRESENTADO
